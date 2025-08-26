@@ -15,14 +15,16 @@ Always excited to collaborate on interesting projects,
 Here are some of the technologies I have been using recently.
 
 <div align="center" dir="auto">
-<img src="/Python_logo_and_wordmark.svg.png" width="200" height="200">
-<img src="/Pytorch_logo.png" width="200" height="200">
-<img src="/Pandas_logo.svg.png" width="200" height="200">
-<img src="/postgresql_plain_wordmark_logo_icon_146390.png" width="200" height="200">
-<img src="/OpenSearch_logo_(monochrome).svg.png" width="200" height="200">
-<img src="/Cuda.png" width="200" height="200">
-<img src="/opengl_logo.png" width="200" height="200">
-<img src="/Java_programming_language_logo.svg.png" width="200" height="200">
+<img src="/python.svg" height="200">
+<img src="/pytorch,svg"  height="200">
+<img src="/pandas.svg" height="200">
+<img src="/postgresql.svg" height="200">
+<img src="/opensearch.svg" height="200">
+<img src="/cuda.png" height="200">
+<img src="/opengl.svg" height="200">
+<img src="/aws.svg" height="200">
+<img src="/docker.svg" height="200">
+<img src="/Java_programming_language_logo.svg.png" height="200">
 </div>
 
 <!--
