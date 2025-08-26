@@ -15,15 +15,15 @@ Always excited to collaborate on interesting projects,
 Here are some of the technologies I have been using recently.
 
 <div align="center" dir="auto">
-<img src="/python.svg" height="200">
-<img src="/pytorch,svg"  height="200">
-<img src="/pandas.svg" height="200">
-<img src="/postgresql.svg" height="200">
-<img src="/opensearch.svg" height="200">
-<img src="/cuda.png" height="200">
-<img src="/opengl.svg" height="200">
-<img src="/aws.svg" height="200">
-<img src="/docker.svg" height="200">
+<img src="/python.svg" height="100">
+<img src="/pytorch.svg"  height="100">
+<img src="/pandas.svg" height="100">
+<img src="/postgresql.svg" height="100">
+<img src="/opensearch.svg" height="100">
+<img src="/cuda.png" height="100">
+<img src="/opengl.svg" height="100">
+<img src="/aws.svg" height="100">
+<img src="/docker.svg" height="100">
 <img src="/Java_programming_language_logo.svg.png" height="200">
 </div>
 
