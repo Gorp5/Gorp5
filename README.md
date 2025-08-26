@@ -10,7 +10,7 @@ and most of all: ✨**Learning New Things**✨
 
 Let's connect! Gorpdev@gmail.com
 
-Always excited to collaborate on interesting projects,
+Im always excited to collaborate on interesting projects. If you have any let me know!
 ## Tech Stack
 Here are some of the technologies I have been using recently.
 
