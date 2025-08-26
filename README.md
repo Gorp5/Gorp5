@@ -15,16 +15,16 @@ Always excited to collaborate on interesting projects,
 Here are some of the technologies I have been using recently.
 
 <div align="center" dir="auto">
-<img src="/python.svg" width=75 height="75">
-<img src="/pytorch.svg"  width=75 height="75">
-<img src="/pandas.svg" width=75 height="75">
-<img src="/postgresql.svg" width=75 height="75">
-<img src="/opensearch.svg" width=75 height="75">
-<img src="/cuda.svg" width=75 height="75">
-<img src="/opengl.svg" width=75 height="75">
-<img src="/aws.svg" width=75 height="75">
-<img src="/docker.svg" width=75 height="75">
-<img src="/java-vertical.svg" width=75 height="75">
+<img src="/python.svg" width=75 height=75>
+<img src="/pytorch.svg"  width=150 height=75>
+<img src="/pandas.svg" width=75 height=75>
+<img src="/postgresql.svg" width=75 height=75>
+<img src="/opensearch.svg" width=75 height=75>
+<img src="/cuda.svg" width=75 height=75>
+<img src="/opengl.svg" width=150 height=75>
+<img src="/aws.svg" width=75 height=75>
+<img src="/docker.svg" width=75 height=75>
+<img src="/java-vertical.svg" width=75 height=75>
 </div>
 
 <!--
