@@ -14,15 +14,16 @@ Always excited to collaborate on interesting projects,
 ## Tech Stack
 Here are some of the technologies I have been using recently.
 
+<div align="center" dir="auto">
 <img src="/Python_logo_and_wordmark.svg.png" width="200" height="200">
 <img src="/Pytorch_logo.png" width="200" height="200">
-<img src="/Pandas_logo.svg.pn" width="200" height="200">
+<img src="/Pandas_logo.svg.png" width="200" height="200">
 <img src="/postgresql_plain_wordmark_logo_icon_146390.png" width="200" height="200">
 <img src="/OpenSearch_logo_(monochrome).svg.png" width="200" height="200">
 <img src="/Cuda.png" width="200" height="200">
 <img src="/opengl_logo.png" width="200" height="200">
 <img src="/Java_programming_language_logo.svg.png" width="200" height="200">
-
+</div>
 
 <!--
 **Gorp5/Gorp5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
