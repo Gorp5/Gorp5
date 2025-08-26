@@ -21,12 +21,12 @@ Here are some of the technologies I have been using recently.
 <img src="/pandas.svg" width=75 height=75>
 <img src="/postgresql.svg" width=75 height=75>
 <img src="/opensearch.svg" width=75 height=75>
+<img src="/cpp.svg" width=50 height=75>
 <img src="/cuda.svg" width=75 height=75>
 <img src="/opengl.svg" width=150 height=75>
 <img src="/aws.svg" width=75 height=75>
 <img src="/docker.svg" width=75 height=75>
 <img src="/java-vertical.svg" width=50 height=75>
-<img src="/cpp.svg" width=50 height=75>
 </div>
 
 
