@@ -3,14 +3,14 @@ My name is **Jordan** (Some people call me gorp online) I'm an undergraduate in 
 
 My favorite topics in CS currently include:
 Feature Learning (via Autoencoders),
-Compute Shaders,
-Data Analysis,
+Parallelization via Shaders,
+& Data Analysis
 
-and most of all: ✨**Learning New Things**✨
+🌱 I’m currently learning CUDA and C++
 
-Let's connect! Gorpdev@gmail.com
 
 Im always excited to collaborate on interesting projects. If you have any let me know!
+
 ## Tech Stack
 Here are some of the technologies I have been using recently.
 
@@ -26,6 +26,8 @@ Here are some of the technologies I have been using recently.
 <img src="/docker.svg" width=75 height=75>
 <img src="/java-vertical.svg" width=50 height=75>
 </div>
+
+I love chatting so let's connect! Gorpdev@gmail.com
 
 <!--
 **Gorp5/Gorp5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
