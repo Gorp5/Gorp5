@@ -24,7 +24,7 @@ Here are some of the technologies I have been using recently.
 <img src="/opengl.svg" height="100">
 <img src="/aws.svg" height="100">
 <img src="/docker.svg" height="100">
-<img src="/java.svgg" height="200">
+<img src="/java.svg" height="200">
 </div>
 
 <!--
