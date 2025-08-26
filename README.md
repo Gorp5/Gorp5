@@ -1,4 +1,4 @@
-## Hi!
+## Hi! 👋
 My name is **Jordan** (Some people call me gorp online) I'm an undergraduate in my senior year, but I'm also a Software Engineer and ML Researcher.
 
 My favorite topics in CS currently include:
