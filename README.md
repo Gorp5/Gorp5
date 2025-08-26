@@ -14,7 +14,7 @@ Always excited to collaborate on interesting projects,
 ## Tech Stack
 Here are some of the technologies I have been using recently.
 
-<img src="[/Gorp5/Python_logo_and_wordmark.svg.png]" width="200" height="200">
+<img src="/Gorp5/Python_logo_and_wordmark.svg.png" width="200" height="200">
 ![alt text](https://github.com/Gorp5/Gorp5/blob/main/Pytorch_logo.png)
 ![alt text](https://github.com/Gorp5/Gorp5/blob/main/Pandas_logo.svg.png)
 ![alt text](https://github.com/Gorp5/Gorp5/blob/main/postgresql_plain_wordmark_logo_icon_146390.png)
