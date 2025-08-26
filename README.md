@@ -11,6 +11,7 @@ Parallelization via Shaders,
 
 Im always excited to collaborate on interesting projects. If you have any let me know!
 
+
 ## Tech Stack
 Here are some of the technologies I have been using recently.
 
@@ -26,6 +27,8 @@ Here are some of the technologies I have been using recently.
 <img src="/docker.svg" width=75 height=75>
 <img src="/java-vertical.svg" width=50 height=75>
 </div>
+
+
 
 I love chatting so let's connect! Gorpdev@gmail.com
 
