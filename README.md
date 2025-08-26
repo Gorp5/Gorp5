@@ -3,7 +3,7 @@ My name is **Jordan** (Some people call me gorp online) I'm an undergraduate in 
 
 My favorite topics in CS currently include:
 Feature Learning (via Autoencoders),
-Parallelization via Shaders,
+Parallelization w/ Shaders,
 & Data Analysis
 
 🌱 I’m currently learning CUDA and C++
