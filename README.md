@@ -4,6 +4,7 @@ My name is **Jordan** (Some people call me gorp online) I'm an undergraduate in 
 My favorite topics in CS currently include:
 Representation Learning,
 Positional Embeddings for Transformers,
+Computational Music Synthesis,
 & Parallelization w/ Shaders,
 
 
@@ -18,16 +19,15 @@ Here are some of the technologies I have been using recently.
 
 <div align="center" dir="auto">
   
-<img src="/python.svg" width=75 height=75>
-<img src="/pytorch.svg"  width=150 height=75>
-<img src="/pandas.svg" width=75 height=75>
-<img src="/postgresql.svg" width=75 height=75>
-<img src="/cpp.svg" width=75 height=75>
-<img src="/cuda.svg" width=75 height=75>
-<img src="/opengl.svg" width=150 height=75>
-<img src="/aws.svg" width=75 height=75>
-<img src="/docker.svg" width=75 height=75>
-<img src="/java-vertical.svg" width=50 height=75>
+<img src="/python.svg" width=50 height=50>
+<img src="/pytorch.svg"  width=100 height=50>
+<img src="/pandas.svg" width=50 height=50>
+<img src="/postgresql.svg" width=50 height=50>
+<img src="/cpp.svg" width=50 height=50>
+<img src="/cuda.svg" width=50 height=50>
+<img src="/aws.svg" width=50 height=50>
+<img src="/docker.svg" width=50 height=50>
+<img src="/java-vertical.svg" width=33 height=50>
   
 </div>
 
